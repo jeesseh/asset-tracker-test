@@ -1,0 +1,13 @@
+Screen1 As screen:
+    Fill: =Color.White
+    LoadingSpinnerColor: =App.Theme.Colors.Primary
+
+    TextCanvas1 As Text:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Text: ="heheheheah"
+        Width: =96
+        X: =636
+        Y: =315
+        ZIndex: =1
+
